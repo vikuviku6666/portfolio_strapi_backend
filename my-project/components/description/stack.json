@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_description_stacks",
+  "info": {
+    "name": "stack",
+    "icon": "angle-up"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
